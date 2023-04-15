@@ -1,0 +1,21 @@
+{
+  "name": "clockworkfox-js-bot",
+  "version": "1.0.0",
+  "description": "A Clockwork Fox JS implementation",
+  "main": "index.js",
+  "scripts": {
+    "windup": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "GearFox98",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.2.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
