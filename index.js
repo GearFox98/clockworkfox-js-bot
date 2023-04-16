@@ -1,6 +1,6 @@
 console.log("Winding up...");
 
-require('dotenv').config();
+//require('dotenv').config();
 
 // Imports
 const hello = require('./hello');
